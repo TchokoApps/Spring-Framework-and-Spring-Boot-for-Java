@@ -1,4 +1,4 @@
-package com.tchokoapps.springboot.springboottutorialnavbar.controllers;
+package com.tchokoapps.springboot.springboottutorial.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -14,5 +14,10 @@ public class PageController {
     @RequestMapping("/about")
     public String about() {
         return "app.about";
+    }
+
+    @RequestMapping("/addstatus")
+    public String addStatus() {
+        return "app.addstatus";
     }
 }

@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.tchokoapps.springboot</groupId>
-    <artifactId>05-spring-boot-tutorial-bootstrap-panels</artifactId>
+    <artifactId>06-spring-boot-tutorial-bootstrap-panels</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>05-spring-boot-tutorial-bootstrap-panels</name>
+    <name>06-spring-boot-tutorial-bootstrap-panels</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

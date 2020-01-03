@@ -1,4 +1,4 @@
-package com.tchokoapps.springboot.springboottutorialnavbar;
+package com.tchokoapps.springboot.springboottutorial;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

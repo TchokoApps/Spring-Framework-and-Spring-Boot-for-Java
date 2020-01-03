@@ -1,4 +1,4 @@
-package com.tchokoapps.springboot.springboottutorialstaticresources;
+package com.tchokoapps.springboot.springboottutorial;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
